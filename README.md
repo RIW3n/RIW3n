@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm [RIDWAN]
+# 👋 Hey, I'm RIDWAN
 
 ### 🤖 Mechatronics Engineer | 🧠 AI/ML Specialist | 🚀 Robotics Developer
 
@@ -130,7 +130,7 @@ Smart home system with ML-based predictive automation and voice control.
 ### 🔮 [ANDROMACHE]
 <img src="https://img.shields.io/badge/Status-In_Progress-yellow?style=flat-square"/>
 
-Brief description of your current project.
+An Ecosytem type platform for all mobile robots like drones, ugvs, agvs e.t.c.
 
 **Tech Stack:**
 `Technologies`
@@ -144,21 +144,6 @@ Brief description of your current project.
 </div>
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
@@ -242,14 +227,6 @@ I'm always excited to work on interesting projects! I'm particularly interested 
 
 <div align="center">
 
-### 💭 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 😂 Random Dev Meme
-
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 ---
 
 ### ⚡ "The best way to predict the future is to invent it." - Alan Kay
@@ -265,7 +242,5 @@ I'm always excited to work on interesting projects! I'm particularly interested 
 <div align="center">
 
 **Thanks for visiting! ⭐ Star some repositories if you find them interesting!**
-
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
 
 </div>
