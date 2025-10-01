@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm [Your Name]
+# 👋 Hey, I'm [RIDWAN]
 
 ### 🤖 Mechatronics Engineer | 🧠 AI/ML Specialist | 🚀 Robotics Developer
 
@@ -127,7 +127,7 @@ Smart home system with ML-based predictive automation and voice control.
 </td>
 <td width="50%">
 
-### 🔮 [Your Next Project]
+### 🔮 [ANDROMACHE]
 <img src="https://img.shields.io/badge/Status-In_Progress-yellow?style=flat-square"/>
 
 Brief description of your current project.
